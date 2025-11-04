@@ -17,7 +17,7 @@
     "framer-motion": "11.3.30",
     "lucide-react": "0.460.0",
     "qrcode": "1.5.4",
-    "html5-qrcode": "2.3.10",
+    "html5-qrcode": "2.3.8",
     "clsx": "2.1.1"
   }
 }

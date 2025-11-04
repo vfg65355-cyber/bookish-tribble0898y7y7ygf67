@@ -1,0 +1,1 @@
+'use client';export default function Page(){return(<main style={{padding:'2rem'}}>Pendaftaran + QR sudah termasuk di versi lengkap sebelumnya. (Demo deploy)</main>)}

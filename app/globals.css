@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;:root{--bg:#fff;--fg:#101418}.dark{--bg:#0b0e11;--fg:#e8eef5}html,body{--tw-bg-opacity:1}.container-max{max-width:80rem;margin:0 auto;padding:0 1rem}

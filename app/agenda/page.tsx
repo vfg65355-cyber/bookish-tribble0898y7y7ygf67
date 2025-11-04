@@ -1,0 +1,1 @@
+export default function Page(){return(<main style={{padding:'2rem'}}>Agenda interaktif sudah termasuk di versi lengkap sebelumnya. (Demo deploy)</main>)}

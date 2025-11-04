@@ -1,0 +1,1 @@
+export default function Home(){return(<section style={{padding:'4rem',fontFamily:'system-ui'}}><h1 style={{fontSize:36,fontWeight:800}}>IndonesiaBisa 2025</h1><p>Build siap deploy. Jalankan halaman lain: /agenda, /register, /checkin, /speakers, /gallery, /blog, /contact.</p></section>)}

@@ -1,0 +1,1 @@
+'use client';export default function Page(){return(<main style={{padding:'2rem'}}>Kontak (demo deploy)</main>)}

@@ -1,0 +1,1 @@
+module.exports={darkMode:'class',content:['./app/**/*.{js,ts,jsx,tsx,mdx}','./components/**/*.{js,ts,jsx,tsx,mdx}'],theme:{extend:{colors:{primary:'#E53935',navy:'#003366'},borderRadius:{'2xl':'1.25rem'},boxShadow:{soft:'0 10px 20px rgba(0,0,0,0.08)'}}},plugins:[]}
